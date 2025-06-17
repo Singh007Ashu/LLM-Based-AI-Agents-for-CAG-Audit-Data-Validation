@@ -1,0 +1,57 @@
+[
+    {
+        "text": "Independent Auditor's Report to the Members of Horizon Educational Institute. Opinion: We have audited the financial statements... Basis for Opinion... Auditor's Responsibilities... Signed by John Doe, FCA, FRN: 123456W, Date: April 10, 2025, Place: Mumbai.",
+        "rule_id": "<UUID-for-rule-1>",
+        "label": "Compliant"
+    },
+    {
+        "text": "Audit Report for 2024. Financial statements prepared, but no mention of Auditor's Responsibilities or Basis for Opinion.",
+        "rule_id": "<UUID-for-rule-1>",
+        "label": "Non-Compliant"
+    },
+    {
+        "text": "Fiscal year reported as 2024-2025, but audit period covers January 2024 to December 2024.",
+        "rule_id": "<UUID-for-rule-2>",
+        "label": "Non-Compliant"
+    },
+    {
+        "text": "Entity registered under Societies Registration Act, 1860, as mentioned in the report.",
+        "rule_id": "<UUID-for-rule-3>",
+        "label": "Compliant"
+    },
+    {
+        "text": "Balance Sheet and Income Statement included, but no mention of Accounting Standards.",
+        "rule_id": "<UUID-for-rule-4>",
+        "label": "Partially Compliant"
+    },
+    {
+        "text": "Findings include observations and impacts, but no quantified discrepancies.",
+        "rule_id": "<UUID-for-rule-5>",
+        "label": "Partially Compliant"
+    },
+    {
+        "text": "Monetary values reported as 950000 without proper formatting.",
+        "rule_id": "<UUID-for-rule-6>",
+        "label": "Non-Compliant"
+    },
+    {
+        "text": "Report confirms compliance with Section 12A of Income Tax Act, 1961.",
+        "rule_id": "<UUID-for-rule-7>",
+        "label": "Compliant"
+    },
+    {
+        "text": "TDS filings mentioned, but no confirmation of timeliness.",
+        "rule_id": "<UUID-for-rule-8>",
+        "label": "Non-Compliant"
+    },
+    {
+        "text": "GST compliance not applicable, as stated in the report.",
+        "rule_id": "<UUID-for-rule-9>",
+        "label": "Compliant"
+    },
+    {
+        "text": "Action plan includes tasks but no specific deadlines.",
+        "rule_id": "<UUID-for-rule-10>",
+        "label": "Partially Compliant"
+    }
+]
